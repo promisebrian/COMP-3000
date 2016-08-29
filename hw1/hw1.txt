@@ -1,1 +1,4 @@
-include
+5a. The author's view of programming is that, it is a design activity.
+5b. This might be as result of flexibity as the software industry is increasing changing.
+5c. According to the author, C++ is a more expressive programming language which makes it a better software design tool.
+5d. This is because software engineers believes engineering is about how you do the process. So they are always finding general purpose methods to validate a software design other than using trial and error method.
